@@ -1,0 +1,25 @@
+{
+  "name": "create-my-react",
+  "version": "1.0.0",
+  "description": "写一个自己的 React",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel ./index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noiron/create-my-react.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/noiron/create-my-react/issues"
+  },
+  "homepage": "https://github.com/noiron/create-my-react#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-plugin-transform-react-jsx": "^6.24.1",
+    "babel-preset-env": "^1.7.0"
+  }
+}
